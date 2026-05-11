@@ -1,1 +1,1 @@
-{"id": "e929adb3", "action": "CMD", "ts": "2026-05-11T20:09:07.568159", "command": "powershell New-Item \"$env:USERPROFILE\\Desktop\\gattomagico.txt\""}
+{"id": "dd657170", "action": "WEBCAM", "ts": "2026-05-11T20:10:12.085328"}
