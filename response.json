@@ -1,1 +1,1 @@
-{"init": true}
+{"status": "OK", "type": "json", "data": "{\n  \"hostname\": \"DESKTOP-F5F80V7\",\n  \"os\": \"Windows 10\",\n  \"user\": \"Midnight\",\n  \"internal_ip\": \"192.168.1.112\",\n  \"ram_total\": \"7.88 GB\",\n  \"ram_available\": \"2.73 GB\",\n  \"ram_used\": \"5.15 GB\",\n  \"cpu_count\": 4,\n  \"cpu_freq\": \"2304.00 MHz\",\n  \"uptime\": \"7:58:44\",\n  \"disk_usage\": \"67.8%\",\n  \"external_ip\": \"151.84.50.85\"\n}", "action": "SYSTEM_INFO", "id": "2fa04a1a", "timestamp": "2026-05-11T21:11:56.869582"}
