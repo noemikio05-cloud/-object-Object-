@@ -1,1 +1,1 @@
-{"id": "fde56d1c", "action": "CMD", "ts": "2026-05-11T20:14:58.759191", "command": "powershell New-Item \"$env:USERPROFILE\\Desktop\\gattomagico.py\""}
+{"id": "4a4bbb66", "action": "HARDWARE_INFO", "ts": "2026-05-11T20:16:25.011872"}
