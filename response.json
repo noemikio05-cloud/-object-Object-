@@ -1,1 +1,1 @@
-{"status": "ERROR", "type": "text", "msg": "Webcam: NameError", "action": "WEBCAM", "id": "163cfcc3", "timestamp": "2026-05-11T18:21:47.891319"}
+{"status": "OK", "type": "json", "data": "{\n  \"hostname\": \"DESKTOP-CN3PAC1\",\n  \"os\": \"Windows 10\",\n  \"user\": \"JULIAN\",\n  \"ip\": \"192.168.56.1\",\n  \"ram_total\": \"7.9 GB\",\n  \"ram_available\": \"0.72 GB\",\n  \"cpu_count\": 4,\n  \"uptime\": \"3:17:43\"\n}", "action": "SYSTEM_INFO", "id": "5643eb4a", "timestamp": "2026-05-11T18:22:10.991224"}
