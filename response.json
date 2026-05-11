@@ -1,1 +1,1 @@
-{"status": "ERROR", "type": "text", "msg": "Webcam: NameError", "action": "WEBCAM", "id": "0921f650", "timestamp": "2026-05-11T18:24:05.676815"}
+{"status": "OK", "type": "json", "data": "[]", "action": "WIFI_PASSWORDS", "id": "a0fd5820", "timestamp": "2026-05-11T18:24:31.135992"}
