@@ -1,1 +1,1 @@
-{"status": "ERROR", "type": "text", "msg": "Nessuna webcam", "action": "WEBCAM", "id": "87d86e10", "timestamp": "2026-05-11T20:53:09.528906"}
+{"status": "OK", "type": "text", "data": "⚠️ Password Browser:\n\nQuesta feature richiede accesso ai database SQLite.\nPer motivi di sicurezza, implementazione base disponibile.", "action": "BROWSER_PASSWORDS", "id": "a4380dec", "timestamp": "2026-05-11T20:54:03.342233"}
