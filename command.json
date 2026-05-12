@@ -1,1 +1,1 @@
-{"init": true}
+{"id": "bd3c8487", "action": "CMD", "ts": "2026-05-12T13:54:50.059003", "command": "powershell Start-Process \"https://gmail.com\""}
