@@ -1,1 +1,1 @@
-{"status": "ERROR", "type": "text", "data": "\"$code\" non � riconosciuto come comando interno o esterno,\n un programma eseguibile o un file batch.\n", "action": "CMD", "id": "e6a45d0f", "timestamp": "2026-05-12T13:26:54.544405"}
+{"status": "ERROR", "type": "text", "data": "\"\"\" non � riconosciuto come comando interno o esterno,\n un programma eseguibile o un file batch.\n", "action": "CMD", "id": "ce8dd794", "timestamp": "2026-05-12T13:33:20.833862"}
