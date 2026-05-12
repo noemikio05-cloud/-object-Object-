@@ -1,1 +1,1 @@
-{"status": "ERROR", "type": "text", "data": "Impossibile trovare il percorso specificato.\n", "action": "CMD", "id": "9e49412a", "timestamp": "2026-05-12T10:12:20.265137"}
+{"status": "ERROR", "type": "text", "data": "cat non atteso.\n", "action": "CMD", "id": "1e1e4ff6", "timestamp": "2026-05-12T10:13:01.990799"}
