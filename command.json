@@ -1,1 +1,1 @@
-{"id": "1e1e4ff6", "action": "CMD", "ts": "2026-05-12T10:13:01.947318", "command": "(Read-Host)> \"$env:USERPROFILE\\Desktop\\file.txt\"; cat \"$env:USERPROFILE\\Desktop\\file.txt\""}
+{"id": "1010e390", "action": "CMD", "ts": "2026-05-12T10:13:27.405774", "command": "powershell ls"}
