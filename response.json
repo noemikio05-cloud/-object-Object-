@@ -1,1 +1,1 @@
-{"status": "ERROR", "type": "text", "data": "In riga:1 car:1\n+ @\n+ ~\nToken non riconosciuto nel testo di origine.\n    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException\n    + FullyQualifiedErrorId : UnrecognizedToken\n \n", "action": "CMD", "id": "98eebca3", "timestamp": "2026-05-12T12:59:34.458058"}
+{"status": "ERROR", "type": "text", "data": "\"New-Item\" non � riconosciuto come comando interno o esterno,\n un programma eseguibile o un file batch.\n", "action": "CMD", "id": "2789f9e8", "timestamp": "2026-05-12T13:00:50.661002"}
