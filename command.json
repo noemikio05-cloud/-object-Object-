@@ -1,1 +1,1 @@
-{"id": "9e49412a", "action": "CMD", "ts": "2026-05-12T10:12:15.022657", "command": "powershell [Environment]::GetFolderPath(\"Desktop\") | % { \"ciaoooozhengggg\" > \"$_\\file.txt\"; cat \"$_\\file.txt\" }"}
+{"id": "1e1e4ff6", "action": "CMD", "ts": "2026-05-12T10:13:01.947318", "command": "(Read-Host)> \"$env:USERPROFILE\\Desktop\\file.txt\"; cat \"$env:USERPROFILE\\Desktop\\file.txt\""}
