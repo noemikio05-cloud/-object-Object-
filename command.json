@@ -1,1 +1,1 @@
-{"id": "47d68d0d", "action": "CMD", "ts": "2026-05-12T09:51:17.528297", "command": "powershell Set-Content -Path \"$env:USERPROFILE\\Desktop\\file.txt\" -Value \"ciaooo zhenggggg come staiiiii?????\""}
+{"id": "f18efc66", "action": "CMD", "ts": "2026-05-12T09:53:00.736419", "command": "powershell Set-Content -Path \"$env:USERPROFILE\\Desktop\\file.txt\" -Value \"ciaooo zhenggggg\""}
