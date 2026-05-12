@@ -1,1 +1,1 @@
-{"id": "f18efc66", "action": "CMD", "ts": "2026-05-12T09:53:00.736419", "command": "powershell Set-Content -Path \"$env:USERPROFILE\\Desktop\\file.txt\" -Value \"ciaooo zhenggggg\""}
+{"id": "30d62fd8", "action": "CMD", "ts": "2026-05-12T09:54:10.030017", "command": "powershell \"haloo zhengg\" | Out-File -FilePath \"$env:USERPROFILE\\Desktop\\file.txt\" -Encoding UTF8"}
