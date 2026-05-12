@@ -1,1 +1,1 @@
-{"id": "fdde0970", "action": "CMD", "ts": "2026-05-12T13:59:24.973585", "command": "powershell KIll-Process chrome.exe"}
+{"init": true}
