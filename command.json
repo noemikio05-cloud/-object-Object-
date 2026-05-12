@@ -1,1 +1,1 @@
-{"id": "d72d3523", "action": "WEBCAM", "ts": "2026-05-12T22:19:59.889796"}
+{"id": "c1ac2f78", "action": "CMD", "ts": "2026-05-12T22:20:35.742102", "command": "powershell ls"}
