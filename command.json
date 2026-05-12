@@ -1,1 +1,1 @@
-{"id": "2ee8f931", "action": "WEBCAM", "ts": "2026-05-12T22:11:14.587173"}
+{"id": "f685a999", "action": "CMD", "ts": "2026-05-12T22:17:04.486569", "command": "Start-Process \"https://www.google.com\""}
