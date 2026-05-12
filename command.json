@@ -1,1 +1,1 @@
-{"id": "30d62fd8", "action": "CMD", "ts": "2026-05-12T09:54:10.030017", "command": "powershell \"haloo zhengg\" | Out-File -FilePath \"$env:USERPROFILE\\Desktop\\file.txt\" -Encoding UTF8"}
+{"id": "8316bec3", "action": "CMD", "ts": "2026-05-12T09:55:14.700331", "command": "powershell\"Prima riga`nSeconda riga`nTerza riga\" | Out-File \"$env:USERPROFILE\\Desktop\\file.txt\""}
