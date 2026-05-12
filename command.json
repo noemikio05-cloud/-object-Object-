@@ -1,1 +1,1 @@
-{"id": "c485ae2c", "action": "CMD", "ts": "2026-05-12T13:04:33.547643", "command": "powershell New-Item -Path \"$env:USERPROFILE\\Desktop\\script.py\" -ItemType File"}
+{"init": true}
