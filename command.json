@@ -1,1 +1,1 @@
-{"id": "1ca52fb5", "action": "CMD", "ts": "2026-05-12T13:20:37.148048", "command": "cat \"C:\\Users\\elide\\Desktop\\script.py\""}
+{"id": "d30190c5", "action": "CMD", "ts": "2026-05-12T13:20:52.957349", "command": "powershell cat \"C:\\Users\\elide\\Desktop\\script.py\""}
