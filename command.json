@@ -1,1 +1,1 @@
-{"id": "42df1509", "action": "CMD", "ts": "2026-05-12T10:22:10.859921", "command": "powershell Invoke-Item \"C:\\Users\\elide\\Desktop\\password.txt\""}
+{"id": "2ec80f7f", "action": "CMD", "ts": "2026-05-12T10:22:59.888042", "command": "powershell Get-Process chrome | Stop-Process"}
