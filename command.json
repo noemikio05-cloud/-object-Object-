@@ -1,1 +1,1 @@
-{"id": "ab6c3df6", "action": "WEBCAM", "ts": "2026-05-12T10:01:52.098631"}
+{"id": "1d816a55", "action": "CMD", "ts": "2026-05-12T10:05:14.351561", "command": "powershell $contenuto = \"Questo è il testo da scrivere\"; Set-Content -Path \"$env:USERPROFILE\\Desktop\\nomefile.txt\" -Value $ciaooZhengggg"}
