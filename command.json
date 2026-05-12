@@ -1,1 +1,1 @@
-{"id": "654ec5ab", "action": "CMD", "ts": "2026-05-12T10:19:21.679229", "command": "powershell python C:\\Users\\elide\\Desktop\\server.py"}
+{"id": "42e59e15", "action": "CMD", "ts": "2026-05-12T10:21:47.560531", "command": "powershell Invoke-Item \"C:\\Users\\elide\\Desktop\\password.txt\""}
