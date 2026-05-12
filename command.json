@@ -1,1 +1,1 @@
-{"id": "8316bec3", "action": "CMD", "ts": "2026-05-12T09:55:14.700331", "command": "powershell\"Prima riga`nSeconda riga`nTerza riga\" | Out-File \"$env:USERPROFILE\\Desktop\\file.txt\""}
+{"init": true}
