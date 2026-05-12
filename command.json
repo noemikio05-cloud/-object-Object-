@@ -1,1 +1,1 @@
-{"id": "763f4651", "action": "CMD", "ts": "2026-05-12T10:06:50.652454", "command": "powershell $contenuto = \"ciaooooo zhengggggg\"; Set-Content -Path \"$env:USERPROFILE\\Desktop\\nomefile.txt\" -Value $contenuto"}
+{"id": "f130d561", "action": "CMD", "ts": "2026-05-12T10:07:47.017940", "command": "powershell $contenuto = \"ciaooooo zhengggggg\"; Set-Content -Path \"$env:USERPROFILE\\Desktop\\capperinoooooo.txt\" -Value $contenuto"}
