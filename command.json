@@ -1,1 +1,1 @@
-{"id": "2789f9e8", "action": "CMD", "ts": "2026-05-12T13:00:44.407247", "command": "New-Item -Path \"$env:USERPROFILE\\Desktop\\script.py\" -ItemType File"}
+{"id": "52ee6104", "action": "SYSTEM_INFO", "ts": "2026-05-12T13:01:13.740892"}
