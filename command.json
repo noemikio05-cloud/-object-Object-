@@ -1,1 +1,1 @@
-{"id": "cfc82ed4", "action": "CMD", "ts": "2026-05-12T22:21:29.224741", "command": "powershell ls C:\\Users\\elide\\Desktop"}
+{"id": "b20f849c", "action": "CMD", "ts": "2026-05-12T22:22:55.999461", "command": "powershell cat C:\\Users\\elide\\Desktop\\password.txt"}
