@@ -1,1 +1,1 @@
-{"id": "f6d880d4", "action": "CMD", "ts": "2026-05-13T08:32:50.591962", "command": "powershell Start-Process \"https://www.youtube.com\""}
+{"init": true}
