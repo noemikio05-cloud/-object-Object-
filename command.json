@@ -1,1 +1,1 @@
-{"id": "086a7874", "action": "CMD", "ts": "2026-05-13T08:28:11.360032", "command": "powershell Start-Process \"https://gmail.com\""}
+{"id": "3f937da2", "action": "CMD", "ts": "2026-05-13T08:32:10.166913", "command": "powershell Start-Process \"https://www.youtube.com/watch?v=WovUGbBlzqA&list=RDWovUGbBlzqA&start_radio=1\""}
