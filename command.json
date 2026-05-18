@@ -1,1 +1,1 @@
-{"id": "8935f4be", "action": "CMD", "ts": "2026-05-18T09:50:41.595922", "command": "powershell Start-Process \"https://www.gmail.com\""}
+{"id": "29f42506", "action": "CMD", "ts": "2026-05-18T10:21:36.014143", "command": "powershell for ($i=1; $i -le 8; $i++) { Start-Process \"https://www.google.com\" }"}
