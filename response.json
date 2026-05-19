@@ -1,1 +1,1 @@
-{"status": "OK", "type": "json", "data": "{\n  \"hostname\": \"ComputerPandino\",\n  \"os\": \"Windows 10\",\n  \"user\": \"elide\",\n  \"internal_ip\": \"192.168.196.241\",\n  \"ram_total\": \"7.65 GB\",\n  \"ram_available\": \"0.94 GB\",\n  \"ram_used\": \"6.71 GB\",\n  \"cpu_count\": 8,\n  \"cpu_freq\": \"2401.00 MHz\",\n  \"uptime\": \"22:37:2\",\n  \"disk_usage\": \"75.1%\",\n  \"external_ip\": \"185.165.241.213\"\n}", "action": "SYSTEM_INFO", "id": "b9096209", "timestamp": "2026-05-19T09:58:52.168797"}
+{"init": true}
