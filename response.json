@@ -1,1 +1,1 @@
-{"status": "ERROR", "type": "text", "msg": "Percorso non esistente: C:/Users/Studente/Documents/MonitorData", "action": "LIST_FILES", "id": "be6dc015", "timestamp": "2026-05-19T10:09:44.870615"}
+{"status": "OK", "type": "text", "data": "Agent Online - ComputerPandino", "action": "PING", "id": "6b1cfd20", "timestamp": "2026-05-19T10:24:25.292393"}
