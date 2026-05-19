@@ -1,1 +1,1 @@
-{"status": "OK", "type": "json", "data": "{\n  \"processor\": \"Intel64 Family 6 Model 140 Stepping 1, GenuineIntel\",\n  \"machine\": \"AMD64\",\n  \"architecture\": \"64bit\",\n  \"python\": \"3.11.9\"\n}", "action": "HARDWARE_INFO", "id": "43e79d45", "timestamp": "2026-05-19T10:04:09.685525"}
+{"status": "OK", "type": "text", "data": "Agent Online - ComputerPandino", "action": "PING", "id": "5f8b7081", "timestamp": "2026-05-19T10:05:07.651657"}
