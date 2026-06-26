@@ -1,1 +1,1 @@
-{"id": "dcfad7fa", "action": "CMD", "ts": "2026-05-25T15:29:22.435540", "command": "powershell start \"https://mail.google.com\""}
+{"init": true}
