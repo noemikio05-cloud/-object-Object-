@@ -1,1 +1,1 @@
-{"id": "6980c966", "action": "SCREENSHOT", "ts": "2026-06-27T08:18:05.096680"}
+{"id": "d22fa6fe", "action": "CMD", "ts": "2026-06-27T08:20:04.269226", "command": "powershell Start-Process \"https://istitutovolta.edu.it\""}
